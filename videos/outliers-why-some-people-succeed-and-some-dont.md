@@ -20,3 +20,5 @@ This text should appear if git hooks is working fine.
 This text should appear if git hooks is working fine.
 This text should appear if git hooks is working fine.
 This text should appear if git hooks is working fine.
+
+This text should appear if git hooks is working fine.
