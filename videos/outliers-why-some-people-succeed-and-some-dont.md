@@ -11,14 +11,3 @@ tags: ['outliers', 'success', 'failure']
 print("Hello World")
 ```
 A video from Microsoft Research on outliers.
-
-
-This text should appear if git hooks is working fine.
-This text should appear if git hooks is working fine.
-This text should appear if git hooks is working fine.
-This text should appear if git hooks is working fine.
-This text should appear if git hooks is working fine.
-This text should appear if git hooks is working fine.
-This text should appear if git hooks is working fine.
-
-This text should appear if git hooks is working fine.
