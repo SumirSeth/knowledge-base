@@ -5,5 +5,5 @@ tags: ['analysis', 'clothing', Self-objectification, "Gender roles", "Femininity
 ---
 
 # Putting on Sexiness: A Content Analysis of the Presence of Sexualizing Characteristics in Girls’ Clothing
-file : <a href="/research-papers/“Putting on” Sexiness A Content Analysis of the Presence.pdf" target="_blank" rel="noopener noreferrer">Open PDF</a>
+file : <a href="research-papers/Putting-on-Sexiness-A-Content-Analysis-of-the-Presence.pdf" target="_blank" rel="noopener noreferrer">Open PDF</a>
 

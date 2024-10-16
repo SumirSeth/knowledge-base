@@ -6,3 +6,8 @@ tags: ['outliers', 'success', 'failure']
 ---
 
 # Outliers: Why some people succeed and some don’t
+
+```python
+print("Hello World")
+```
+A video from Microsoft Research on outliers.
