@@ -1,6 +1,6 @@
 ---
-title: 'Introduction to differential Equations'
-description: 'compilation of video *The Math Sorcerer*'
+title: 'Pieces of Information about Higher Order DE'
+description: 'Compilation of video notes from *The Math Sorcerer*'
 video: 'https://www.youtube.com/playlist?list=PLO1y6V1SXjjOxAE4cqHXhD2dsO8cnlick'
 playlist: 'https://www.youtube.com/playlist?list=PLO1y6V1SXjjOxAE4cqHXhD2dsO8cnlick'
 tags: ['DE', 'Differential Equations', 'Math']
