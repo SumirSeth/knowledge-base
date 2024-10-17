@@ -3,6 +3,7 @@ title: 'Introduction to differential Equations'
 description: 'A short video on DE by *The Math Sorcerer*'
 video: 'https://www.youtube.com/watch?v=WqQsT29X5T4&list=PLO1y6V1SXjjOxAE4cqHXhD2dsO8cnlick&index=10'
 tags: ['DE', 'Differential Equations', 'Math']
+source: 'The Math Sorcerer'
 ---
 
 # Intro to Differential Equations
