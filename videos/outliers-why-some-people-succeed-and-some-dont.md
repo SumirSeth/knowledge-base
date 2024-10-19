@@ -46,19 +46,19 @@ The speaker talks about how he thinks that his book *Outliers* is basically just
 
 - This is really interesting since it shows you can *judge a particular ability (math in this case) without directly testing kids on that particular ability.* :star:
 
-- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+- Countries like china, japan etc are primarily rice based countries. Rice farming is a VERY labour intensive. Probably this habbit of working hard came from here.
+
+### 
+
+
+
+
+
+
+
+
+
+
 
 ---
 
