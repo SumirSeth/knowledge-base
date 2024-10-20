@@ -79,23 +79,18 @@ $R_n(x) = \frac{(x-a)^{n-1}}{(n-1)!}f^n(\alpha), a<\alpha<x$
 ### 1.5 Error in a series approximation
 
 - Concept of resolving the truncated error in a seires approximation can be evaluated by using Taylor's series [Theorem 1.6](#mathematical-preliminaries)
+- For convergent series the last term ( remainder term ) tends to 0 for a convergent series.
 
+---
 
+## Interpolation
 
+Interpolation involves estimating the value of a function at a point within the range of known data points.
 
+**<u>Significance</u>** : Interpolation has a long history rooted in astronomy. Early astronomers used interpolation to determine the motion of celestial bodies from periodic observations. Notable mathematicians like Gauss, Newton, Bessel, and Stirling made significant contributions to the field.2 Modern applications include weather forecasting, where interpolation is used to estimate values at grid points from data collected at scattered weather stations.
 
+Refer to 1.1 and look for interpolation for more info.
 
+A new function has to be formed which is very close to the original function, both these functions have to agree on the tabulated values. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**<u>Weierstrass Theorem</u>** is stated as : if f(x) is continuous in x<sub>0</sub> <= x <= x<sub>n</sub> then given any $\epsilon >0$, there exists a polynomial P(x) such that $|f(x) - P(x)| < \epsilon$ for all x in (x<sub>0</sub>, x<sub>n</sub>).
