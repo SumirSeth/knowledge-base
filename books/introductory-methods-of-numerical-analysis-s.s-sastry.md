@@ -85,6 +85,8 @@ $R_n(x) = \frac{(x-a)^{n-1}}{(n-1)!}f^n(\alpha), a<\alpha<x$
 
 ## Interpolation
 
+### 3.1 Introduction
+
 Interpolation involves estimating the value of a function at a point within the range of known data points.
 
 **<u>Significance</u>** : Interpolation has a long history rooted in astronomy. Early astronomers used interpolation to determine the motion of celestial bodies from periodic observations. Notable mathematicians like Gauss, Newton, Bessel, and Stirling made significant contributions to the field.2 Modern applications include weather forecasting, where interpolation is used to estimate values at grid points from data collected at scattered weather stations.
@@ -94,3 +96,11 @@ Refer to 1.1 and look for interpolation for more info.
 A new function has to be formed which is very close to the original function, both these functions have to agree on the tabulated values. 
 
 **<u>Weierstrass Theorem</u>** is stated as : if f(x) is continuous in x<sub>0</sub> <= x <= x<sub>n</sub> then given any $\epsilon >0$, there exists a polynomial P(x) such that $|f(x) - P(x)| < \epsilon$ for all x in (x<sub>0</sub>, x<sub>n</sub>).
+
+Questions that are out of the scope of the book but are important include :
+
+1. How should the closeness of the approximation be measured?
+
+2. What is the criterion to decide the best polynomial approximation to the function?
+
+# TODO : Start from 3.2 Pg - 74 (edit when start)
