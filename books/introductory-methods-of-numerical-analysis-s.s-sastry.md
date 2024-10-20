@@ -45,3 +45,29 @@ These functions are typically not solved with algebraic operations but require n
 
 **<u>Theorem 1.2</u>** : (Rolle's Theorem) If f (x) is continuous in a<=x<=b, f '(x) exists in a < x < b and f (a) = f (b) = 0, then, there exists at least one value of x, say alpha such that f' (alpha) = 0, a < alpha < b.
 Visually, this means there's a point 'c' where the tangent line to the graph of f(x) is horizontal.
+
+<u>**Theorem 1.3**</u> : (Generalized Rolle's Theorem) If a function is n times differentiable on [a,b], if that function vanishes at (n+1) distinct points, x<sub>0</sub>, x<sub>1</sub>, . . . , x<sub>n</sub>, in (a,b) there exists a number alpha in (a,b) such that the f<sup>n</sup>(alpha) = 0.
+*Simply: The Generalized Rolle's Theorem says that if a function has n distinct roots (places where the function equals zero) within an interval, then there must be a point within that interval where the nth derivative is zero.*
+
+<u>**Theorem 1.4**</u> : (Intermediate value theorem) Let f (x) be continuous in [a, b] and let k be any number between f (a) and f (b). Then there exists a number alpha in (a, b) such that f(alpha) = k 
+
+<u>**Theorem 1.5**</u> : Mean Value Theorem for derivatives.
+
+<u>**Theorem 1.6**</u> : (Taylor's series for a function of one variable)
+$f(x) = f(a) + (x-a)f'(a) + \frac{(x-a)^2}{2!}f''(a) + ... + \frac{(x-a)^{n-1}}{(n-1)!}f^{n-1}(a) + R_n(x)$
+
+where R<sub>n</sub>(x), the remainder term can be expressed in the form 
+
+$R_n(x) = \frac{(x-a)^{n-1}}{(n-1)!}f^n(\alpha), a<\alpha<x$
+
+**<u>Theorem 1.7</u>** : Maclaurin's expansion
+
+**<u>Theorem 1.8</u>** (Taylor's series for a function of two variables)
+
+**<u>Theorem 1.9</u>** : (Taylor's series for a function of several variables)
+
+### 1.3 Errors and their Computations
+
+
+
+
