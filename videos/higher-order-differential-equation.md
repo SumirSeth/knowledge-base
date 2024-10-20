@@ -7,7 +7,7 @@ tags: ['DE', 'Differential Equations', 'Math']
 source: 'The Math Sorcerer'
 ---
 
-> Important Topics that are not covered : `forcing function (input)`, `non-forcing function (input)`, `Wronskian`
+> Important Topics that are not covered : `forcing function (input)`, `non-forcing function (input)`, `Wronskian`.
 
 # Pieces of information about Higher Order DE
 
