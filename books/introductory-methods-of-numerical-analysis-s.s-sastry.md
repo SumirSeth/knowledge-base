@@ -68,6 +68,34 @@ $R_n(x) = \frac{(x-a)^{n-1}}{(n-1)!}f^n(\alpha), a<\alpha<x$
 
 ### 1.3 Errors and their Computations
 
+- Two types of numbers: <u>exact</u> and <u>approximate</u>
+- Concept of significant digits.
+- Concept of absolute, relative and percentage errors.
+
+### 1.4 A General Error Forumla
+
+- Formulating error in a given function.
+
+### 1.5 Error in a series approximation
+
+- Concept of resolving the truncated error in a seires approximation can be evaluated by using Taylor's series [Theorem 1.6](#mathematical-preliminaries)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
