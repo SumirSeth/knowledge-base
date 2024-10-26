@@ -16,15 +16,15 @@ The video goes over the concepts of scaling your backend in a real world scenari
 
 - <u>**Vertical Scalling**</u>: When you scale by increasing processing attributes (RAM and memory for example) of a particular server.
 
-- Critical and Non Critical Tasks : Tasks that are important and need to be done IMMEDIATELY are critical tasks, whereas non-critical task can be pushed off to a queue bus system.
+- <u>**Critical and Non Critical Tasks**</u> : Tasks that are important and need to be done IMMEDIATELY are critical tasks, whereas non-critical task can be pushed off to a queue bus system.
 
-- Queue : Data Structure that operate on the principle of FIRST IN FIRST OUT (FIFO). Useful as job queues or task queues. Queues enhance system efficiency and reliability by letting processes handle tasks at their own pace without blocking main workflows.
+- <u>**Queue**</u> : Data Structure that operate on the principle of FIRST IN FIRST OUT (FIFO). Useful as job queues or task queues. Queues enhance system efficiency and reliability by letting processes handle tasks at their own pace without blocking main workflows.
 
-- Producer and Consumer (or Worker) in Queues : A producer is something that pushes events or jobs to the queue while the worker resolves the job.
+- <u>**Producer and Consumer (or Worker) in Queues**</u> : A producer is something that pushes events or jobs to the queue while the worker resolves the job.
 
-- [Aiven](https://aiven.io/) : An open source database solution. It provides easy access to tools to develop infrastructures.
+- [**Aiven**](https://aiven.io/) : An open source database solution. It provides easy access to tools to develop infrastructures.
 
-- Redis : Open-source, in-memory data structure store often used as a **database**, **cache**, and **message broker**. Great for Queues and Job Management.
+- <u>**Redis**</u> : Open-source, in-memory data structure store often used as a **database**, **cache**, and **message broker**. Great for Queues and Job Management.
 
 ## Learnings:
 
