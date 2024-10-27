@@ -8,4 +8,4 @@ tags: []
 # Project Ideas:
 
 - [ ] - Sorting visualiser (web)
-- [ ] - dark mode commits on backcode
+- [x] - dark mode commits on backcode
