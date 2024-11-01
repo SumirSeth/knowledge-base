@@ -506,3 +506,45 @@ Nanomaterials can be prepared using two main approaches:
 - Weaker than primary (intramolecular) bonds.
 
 - Much less directional than covalend bonds.
+
+- The stronger the attractive forces, the higher mp and bp.
+
+- <u>**Hydrogen Bonds**</u> : Electrostatic attraction beween an H-atom covalently bonded to a highly electronegative atom X such as nitrogen, oxygen, fluorine and a lone pair of electrons on X in another molecule is called hydrogen bonding.
+  
+  - Molecules like HF, NH<sub>3</sub> have **high bp** because of hydrogen bonds.
+  
+  - It can occur intramolecularly or intermolecularly.
+  
+  - H-Bond are weak forces.
+  
+  - They are strong enough to influene properties.
+  
+  - They stabilise the strcuture of proteins and DNA.
+  
+  - Ice floats on top of water because of its lower density compared to liquid water, <u>saving aquatic life</u>.
+  
+  - They *tend* to be the strongest *secondary bonds*.
+  
+  - End Note : Hydrogen bonds seem to be a special case of dipole-dipole bonds.
+
+- **<u>Ion-dipole Forces</u>** : 
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+---
+
+<span style="text-align:center;">end..!</span>
+
+---
+
+
