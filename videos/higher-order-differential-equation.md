@@ -5,6 +5,7 @@ video: 'https://www.youtube.com/playlist?list=PLO1y6V1SXjjOxAE4cqHXhD2dsO8cnlick
 playlist: 'https://www.youtube.com/playlist?list=PLO1y6V1SXjjOxAE4cqHXhD2dsO8cnlick'
 tags: ['DE', 'Differential Equations', 'Math']
 source: 'The Math Sorcerer'
+
 ---
 
 > Important Topics that are not covered : `forcing function (input)`, `non-forcing function (input)`, `Wronskian`.
