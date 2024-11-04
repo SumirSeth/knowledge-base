@@ -7,4 +7,5 @@ tags: []
 # Project Ideas:
 
 - [ ] - Sorting visualiser (web)
+- [ ] - maths animation (any) but have to choose a topic
 - [x] - dark mode commits on backcode
