@@ -60,3 +60,5 @@ Jotting down important pieces of information as I traverse through the book.
 - <span style="color:#26B66E">Note : </span> there is something called `http.HandleFunc()` which basicaly allows one to register routes without declaring servemux.
   Behind the scenes, this is basically using something like `DefaultServeMux() = NewServeMux()`.
   <span style="color:#cc3948">Caution : </span> De
+
+
