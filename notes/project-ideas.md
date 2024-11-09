@@ -8,4 +8,6 @@ tags: []
 
 - [ ] - Sorting visualiser (web)
 - [ ] - maths animation (any) but have to choose a topic
+- [ ] - explore canvas api on web
+- [ ] - snake in c + neural net
 - [x] - dark mode commits on backcode

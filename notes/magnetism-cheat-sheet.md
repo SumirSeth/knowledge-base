@@ -6,6 +6,8 @@ tags: ['magnetism', 'forumals', 'electronics']
 
 # Magnetism Cheat Sheet
 
+## 4.1 Basics of Magnetism
+
 ### Properties of Magnetic Lines
 
 ML of Force is an imaginary line representing the direction of magnetic field such that the tangent at any point is the direction of the field vector at that point.
@@ -140,3 +142,119 @@ where n = N/l, n = turns per unit length
 - Current can NOT flow in air / vacuum. Flux *can* be created in air / vacuum.
 
 ---
+
+## 4.2 Series Magnetic Circuits
+
+### Magnetic Circuits
+
+- The complete closed path followed by magnetic lines of flux is called magnetic circuit.
+
+- ![PPT - Chapter 1 MAGNETIC CIRCUIT PowerPoint Presentation, free download ...](https://image2.slideserve.com/3805831/slide6-l.jpg)
+
+### Series Mag Circuit
+
+- Flux is same if linkage flux is neglected.
+
+- Magnetic flux density and reluctance in each section may vary.
+
+- The resultant MMF is the **sum of MMF of each part**.
+
+- Equivalent Reluctance is just simply the **sum of reluc of each part**.
+
+- S<sub>total</sub> = S<sub>1</sub> + S<sub>2</sub> . . . + S<sub>g</sub>
+
+### Useful and Leakage Flux
+
+- When the flux does not follow it's intended path, its termed as leakage flux.
+
+- This flux is NOT used for **any useful work**.
+
+- Denoted by : $\phi_L$
+
+- Flux utilised by the ciruict is : useful flux
+
+- Denoted by : $\phi_u$
+
+- Total flux: $\phi = \phi_L + \phi_u$
+
+- **<u>Leakage Coefficient</u>** : 
+  
+  - $\lambda = \frac{total\space flux\space of\space coil}{Useful \space flux}$
+
+## 4.3 Parallel Magnetic Circuit
+
+- **When flux has <u>more than one closed path to choose from</u>**.
+
+- > More notes to be added here.
+
+## 4.4 Electromagnetic Induction
+
+### Faraday's Laws of EMI
+
+1. First Law:
+   
+   - When a conductor cuts or it is cut by magnetic flux, an emf is induced in the conductor.
+
+2. Second Law:
+   
+   - The magnitude of the induced emf is proportional to the tate at which the conductor cuts or is cut by the magnetic flux.
+   
+   - $e = N\frac{d\phi}{dt}$
+
+### Lenz's Law
+
+The EMF always acts in such a direction to opose to causation of the induction.
+
+### Types of Induced EMF
+
+- Dynamically induced EMF
+  
+  - The voltage induced in the conductor due to relative motion of conductor and magnetic field.
+  
+  - $e = blv \sin\theta$
+  
+  - Either conductor or magnetic field is moving
+  
+  - **Principle of Electric Generator**
+
+- Statically Induced EMF
+  
+  - The voltage induced in the conductor due to change in the magnetic field
+  
+  - **Conductor is <u>stationary</u>**.
+  
+  - Eg - **Transformer**
+
+### Types of Statically induced EMF
+
+- <u>**Self Induced EMF**</u>
+  
+  - $e = -L\frac{di}{dt}$
+
+- <u>**Self Inductance L**</u>:
+  
+  - $L = N\frac{d\phi}{di}$
+
+- **<u>Mutually Induced EMF</u>**
+  
+  - The infuced emf in a coil due to change of the flux produced by the change of current in the nearby coil.
+
+- <u>**Mutual Inductance**</u> (M)
+  
+  - This proportionality constant is called the mutual inductance, M.
+  
+  - **If coil 1 is excited** :
+    
+    - Mutually induced emf e<sub>2</sub> in coil 2,
+    
+    - $e_2 = N_2\frac{d\phi_{12}}{dt} = M\frac{di_1}{dt}$
+    
+    - $M = N_2\frac{d\phi_{12}}{di_1}$ 
+  
+  - **If coil 2 is excited** :
+    
+    - $M = M_2\frac{d\phi_{21}}{di_2}$
+
+## 4.4.1 Coupled Circuits
+
+> to be done.
