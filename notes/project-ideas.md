@@ -7,7 +7,7 @@ tags: []
 # Project Ideas:
 
 - [ ] - Sorting visualiser (web)
+- [ ] - snake in c + neural net 
 - [ ] - maths animation (any) but have to choose a topic
 - [ ] - explore canvas api on web
-- [ ] - snake in c + neural net
 - [x] - dark mode commits on backcode
