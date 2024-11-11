@@ -6,8 +6,9 @@ tags: []
 
 # Project Ideas:
 
+- [ ] - explore canvas api on web
+- [ ] - browser extension (clipper perhaps)
 - [ ] - Sorting visualiser (web)
 - [ ] - snake in c + neural net 
 - [ ] - maths animation (any) but have to choose a topic
-- [ ] - explore canvas api on web
 - [x] - dark mode commits on backcode
