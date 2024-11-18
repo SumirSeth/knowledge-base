@@ -62,3 +62,11 @@ tags: ['personal', 'random']
   If the brain could dream about weird things, why should it not dream about revising the chemistry chapters that need to be done and then "transfer" that memory once you wake up.
   
   ---
+
+- What’s the point of getting the points if you don’t get the point
+  
+  ---
+
+- The things people choose to complain about, really shows the level of privilege in their life & they don’t even realize it.
+  
+  ---
