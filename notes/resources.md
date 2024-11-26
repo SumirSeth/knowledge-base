@@ -24,6 +24,14 @@ tags: ['resources']
 
 - [Game Theory with Ben Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
 
+# Finance
+
+- [Quantitative Finance by Yale University](https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C)
+
+# Science
+
+- [Shaastra Magazine my IIT-M](https://shaastramag.iitm.ac.in)
+
 # Personal
 
 - Enhancing Soft Skills and Personality - NPTEL / SWAYAM Portal
