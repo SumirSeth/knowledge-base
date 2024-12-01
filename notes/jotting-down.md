@@ -70,3 +70,9 @@ tags: ['personal', 'random']
 - The things people choose to complain about, really shows the level of privilege in their life & they don’t even realize it.
   
   ---
+
+- Of all forms of caution, caution in love has the biggest payout.
+  
+  ---
+  
+  

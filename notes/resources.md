@@ -19,6 +19,7 @@ tags: ['resources']
 - [λux (@novasarc01) / X](https://x.com/novasarc01) - My favourite X account for ML stuff.
 - [Essays · Gwern.net](https://gwern.net/) - Amazing Blog website for tech in general.
 - [Andrej Karpathy - YouTube](https://www.youtube.com/@AndrejKarpathy) - Favourite guy from the ml circle.
+- [Deep Generative Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r) - Recordings of a graduate-level course on Deep Generative Models taught at IISc, Bengaluru.
 
 # Economics
 
@@ -35,3 +36,7 @@ tags: ['resources']
 # Personal
 
 - Enhancing Soft Skills and Personality - NPTEL / SWAYAM Portal
+
+# Misc
+
+- [Library Genesis](https://libgen.is/) - A portal for books.
