@@ -10,6 +10,9 @@ tags: ['resources']
 
 # Tech
 
+* [Essays · Gwern.net](https://gwern.net/) - Amazing Blog website for tech in general.
+* [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) - MIT Lectures on Distributed systems.
+
 ### ML / AI / DL
 
 - [Neural Networks: Zero to Hero By Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
@@ -17,9 +20,10 @@ tags: ['resources']
 - https://www.deep-ml.com/ - A LeetCode like platform for practising ML / DL concepts.
 - [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [λux (@novasarc01) / X](https://x.com/novasarc01) - My favourite X account for ML stuff.
-- [Essays · Gwern.net](https://gwern.net/) - Amazing Blog website for tech in general.
 - [Andrej Karpathy - YouTube](https://www.youtube.com/@AndrejKarpathy) - Favourite guy from the ml circle.
 - [Deep Generative Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r) - Recordings of a graduate-level course on Deep Generative Models taught at IISc, Bengaluru.
+- [Machine Learning Course in Hindi](https://www.youtube.com/playlist?list=PLlpUUtQ9RrF4o3UTYbc4cP3NCEyE5BwX5) - by Data Dissection ( Currently pursuing 🌟🌟🌟)
+- [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) - by CampusX (Currently pursuing for student project 🌟🌟🌟)
 
 # Economics
 
