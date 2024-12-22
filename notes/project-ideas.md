@@ -11,6 +11,8 @@ tags: []
 - [ ] - Sorting visualiser (web)
 - [ ] - snake in c + neural net 
 - [ ] - maths animation (any) but have to choose a topic
+- [ ] - ml5.js libray to make a hand drawing on live video
+- [ ] - micrograd - karpathy :star: :star: :star:
 - [x] - dark mode commits on backcode
 
 # Project Ideas(Personal):
