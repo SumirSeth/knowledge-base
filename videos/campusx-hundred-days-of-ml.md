@@ -42,6 +42,4 @@ There are different types of LR:
 
 Since there will be stochastic errors in the data set, the concept of **best fit line** becomes important.
 
-<u>Best fit line</u> : line (y = mx + c). goal: to find the best m and c such that the *residuals* becomes least.
-
-
+<u>Best fit line </u> : line (y = mx + c). goal: to find the best m and c such that the *residuals* becomes least.
