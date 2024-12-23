@@ -19,3 +19,4 @@ tags: []
 
 - [ ] - ***make a guide on how to accelerate FAST in life for myself.***
 - [ ] - what exactly to do when unmotivated?
+- [ ] - make a video note for 30 dec. (ref: [Mistakes you will make while falling in love.](https://www.youtube.com/watch?v=BO49MyEPBKg))
