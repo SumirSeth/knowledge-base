@@ -49,3 +49,42 @@ Have a really really good understanding of the market. Try to follow the *changi
 - Net Promoter Score
 
 ## Why start a startup?
+
+Don't fall into the common reasons to become a tech entrepreneur: 
+
+- It's glamorous
+- You'll be the boss
+- Flexibility
+- You'll make more money and somewhat fame.
+
+Starting and building a company very stressful. You have a huge responsibility to follow up to.
+There definitely an ugly side to all of this.
+
+#### People.
+
+People are your boss as a CEO. Not just customers, but everyone involved is important to you.
+
+#### Flexibility
+
+- You're always on call
+- You're a role model
+- You're always working anyway
+
+#### Impact and Money
+
+A fallacy is that as an entr. you'll make more money and impact. this is for the most time, not truly the scenario.
+
+### Best Reason to do it?
+
+You can't not do it! You feel like you are perfect person to be doing this. You have the passion for it.
+
+More importantly, the ==world needs you to do it==. If it doesn't, go do something the world *needs* you to do.
+
+### Book Recommendations from Lecture 1:
+
+- The hard thing about hard things
+- Zero to one
+- The Facebook effect
+- The 15 commitments of conscious leadership
+- The tao of leadership
+- nonviolent communication
