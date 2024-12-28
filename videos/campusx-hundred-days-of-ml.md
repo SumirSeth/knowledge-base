@@ -40,6 +40,6 @@ There are different types of LR:
   - It refers to the well distribution of data points. It is very important in a data set. Ideally, there should be no effect of the inputs on the errors, if there are errors, it means that the model has failed to capture certain relationships in the data.
   - Hence it is important for the errors to be *random* or *stochastic* and not show patterns.
 
-Since there will be stochastic errors in the data set, the concept of **best fit line** becomes important.
+Since there will be *stochastic* errors in the data set, the concept of **best fit line** becomes important.
 
 <u>Best fit line </u> : line (y = mx + c). goal: to find the best m and c such that the *residuals* becomes least.
