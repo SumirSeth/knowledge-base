@@ -14,6 +14,7 @@ tags: []
 - [ ] - ml5.js libray to make a hand drawing on live video
 - [ ] - micrograd - karpathy :star: :star: :star:
 - [x] - dark mode commits on backcode
+- [ ] - explore gsap
 
 # Project Ideas(Personal):
 
