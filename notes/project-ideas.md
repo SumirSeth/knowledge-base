@@ -10,14 +10,18 @@ tags: []
 - [ ] - browser extension (clipper perhaps)
 - [ ] - Sorting visualiser (web)
 - [ ] - snake in c + neural net 
-- [ ] - maths animation (any) but have to choose a topic
 - [ ] - ml5.js libray to make a hand drawing on live video
 - [ ] - micrograd - karpathy :star: :star: :star:
-- [x] - dark mode commits on backcode
 - [ ] - explore gsap
+- [x] - dark mode commits on backcode
+- [x] - maths animation (any) but have to choose a topic
 
 # Project Ideas(Personal):
 
-- [ ] - ***make a guide on how to accelerate FAST in life for myself.***
+- [ ] - ***make a guide on how to accelerate FAST in life for myself.*** :star: :star: 
 - [ ] - what exactly to do when unmotivated?
-- [ ] - make a video note for 30 dec. (ref: [Mistakes you will make while falling in love.](https://www.youtube.com/watch?v=BO49MyEPBKg))
+- [x] - make a video note for 30 dec. (ref: [Mistakes you will make while falling in love.](https://www.youtube.com/watch?v=BO49MyEPBKg))
+
+# Project 2025 ideas/documented notes ([Project 2025.](https://project2025-alpha.vercel.app/))
+
+- [ ] - leetcode logs
