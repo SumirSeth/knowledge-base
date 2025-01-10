@@ -35,7 +35,11 @@ The article below will elaborate on how i am aiming to do exactly what the title
 - Doing it enough times that it becomes a habit.
 - Reading (not watching yt videos) about the necessary knowledge required for solving a problem at hand.
 
+Track progress at : [(Project 2025.) - leetcode](https://project2025-alpha.vercel.app/leetcode)
+
 ---
+
+
 
 <footer>Starting 9 Jan 2025.</footer>
 
