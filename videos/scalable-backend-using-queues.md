@@ -31,3 +31,6 @@ The video goes over the concepts of scaling your backend in a real world scenari
 - Horizontal Scalling is not that good because it takes time to boot new servers/machines that will offload the tasks.
 
 - In that time interval, users will face tremendous amounts of lag or the service might even crash.
+
+
+---
