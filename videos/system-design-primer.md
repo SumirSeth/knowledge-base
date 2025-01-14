@@ -61,7 +61,17 @@ Obviously, this system does not ***scale*** at all. Using this example, he goes 
 
 - Make the system such that it could be extended at any wanted moment.
 
+---
 
+# <i>(vid 2)</i> Horizontal vs Vertical Scaling
 
+Intro: Suppose you have some algorithm on a cloud server. People are paying you to use that algo. After sometime, you face scalability and reliability issues. What's the possible solutions?
 
+|       Horizontal        |        Vertical         |
+| :---------------------: | :---------------------: |
+| Load balancing Required |           N/A           |
+|        Resilient        | Single point of failure |
+|                         |                         |
+|                         |                         |
 
+  
