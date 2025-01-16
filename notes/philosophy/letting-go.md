@@ -94,10 +94,32 @@ For the black hole, the shining star is just another target, once exhausted, the
 
 ## <sub>4</sub> sympathy, empathy and over-identification
 
+<u>key idea</u>: we are emotional cartographers, creating maps of other people in our mind
 
+Each one of us has a mental map of people we interact with. To create a map as such, required focused listening and attention.
+
+Failing to do so, might result into erroneous maps of people that'll help us only in getting lost in those maps, often pondering and questioning where we went so wrong.
+
+Narcissists will often impose their mental models/maps on the actual map of the people they interact with.
+
+Empaths on the other hand, tend to be disconnected from the actual feelings of the person. They would underestimate the complexities of the map of a narcissist and attempt to resolve the complexity, often falling into the trap of trying to fix.
+
+
+
+With their loose boundaries, strong empathic codependents can easily slide into *over-identification*. They see themselves in the abuser, a damaged individual who needed saving but no one came to save. They get stuck in this mission.
+
+It seems a win-win, by saving their abuser, they save themselves.
+
+**But it's a lose-lose**, the abuser is not like them and the abuser will just hold them down in perpetual misery.
+
+
+
+When the abuser for the umpteenth time, asks for forgiveness, the empath will lose themselves in the words of the abuser, even going as far as to comforting the abuser. The abusers words are just worthless words, never honored with action.
 
 ---
 
-
+> <u>End Note</u>: The biggest sign of healing is when we let go of fixing people.
+>
+> We can not fix broken people, but we can hold those who endeavor to fix themselves. 
 
 <footer style="opacity:30%">inspiration from a all time fav video. all opinions are my own. write me a message :)</footer>
