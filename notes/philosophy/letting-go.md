@@ -1,7 +1,7 @@
 ---
 title: "Letting go of fixing people: An overview."
 description: "An essay/writeup discussing the dynamics of the one who needs to be fixed and the one that fixes."
-tags: ['philosophy']
+tags: ['philosophy', 'letting go', 'essay', 'writeup', 'overview']
 ---
 > <u>Note to reader</u>: The content below will often use terms like abusers and empaths; note that these terms are contextual and are not used to demean humans and neither to put them on a pedestal. Everybody has their own struggles.
 
@@ -42,13 +42,13 @@ The role of care-offerors should have been to be of someone that gives an extra 
 
 What some in need won't realize is that if there is a want in them for the helpers to carry them on their shoulders, it would have zero healthy returns.
 
-Even such, abusers insist they care-giver carries them on their back until the care-giver is exhausted.
+Even such, abusers insist the care-giver carries them on their back until the care-giver is exhausted.
 
 Change in such people only happens through intent. thinking, making difficult choices, making tradeoffs, and accepting unfavorable outcomes.
 
 Even if the care-offeror carries them on their back, what they fail to realize is that skipping the path of personal development has landed them at square zero. They are just as vulnerable, unequipped to deal with situations as they were before getting a ride on the back.
 
-<u>key idea</u>: *a magical solution to a deeply entangles crisis*
+<u>key idea</u>: *a magical solution to a deeply entangled crisis*
 
 Another situation is when people want others to change. This idea totally skips upon the personal development of themselves, not to mention one can not change another person purely by longing for it.
 
@@ -56,7 +56,7 @@ Another situation is when people want others to change. This idea totally skips 
 
 ## <sub>3</sub> how empath and narcissists enter gridlock
 
-There is a spectrum of narcissistic traits, ranging from malignant to mild. "hope" of change tails off as one goes from mild to the other side of the spectrum, even quite exponentially.
+There is a spectrum of narcissistic traits, ranging from malignant to mild. "hope" of change tails off (decreases) as one goes from mild to the other side of the spectrum, quite exponentially even.
 
 On the extreme side of traits being malignant, you are no longer looking at a human as we recognize it. You are looking at someone with a suit of armor.
 
