@@ -125,4 +125,3 @@ Break this into smaller parts. Can you write a small program to create a socket 
 5. Generate an HTTP response.
 6. Send the response back.
 7. Close the connection.
-
