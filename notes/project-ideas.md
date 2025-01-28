@@ -24,4 +24,4 @@ tags: []
 
 # Project 2025 ideas/documented notes ([Project 2025.](https://project2025-alpha.vercel.app/))
 
-- [ ] - leetcode logs
+- [x] - leetcode logs
