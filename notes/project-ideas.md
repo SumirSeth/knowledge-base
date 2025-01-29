@@ -13,6 +13,7 @@ tags: []
 - [ ] - ml5.js libray to make a hand drawing on live video
 - [ ] - micrograd - karpathy :star: :star: :star:
 - [ ] - explore gsap
+- [ ] - lint for a language (py or js/ts)
 - [x] - dark mode commits on backcode
 - [x] - maths animation (any) but have to choose a topic
 
