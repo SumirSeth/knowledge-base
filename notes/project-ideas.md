@@ -1,5 +1,5 @@
 ---
-title: 'Scrappy Project Ideas for myself'
+title: 'Scrappy Project Ideas for myself.'
 description: 'List of very rough project ideas for personal use'
 tags: []
 ---
@@ -14,6 +14,8 @@ tags: []
 - [ ] - micrograd - karpathy :star: :star: :star:
 - [ ] - explore gsap
 - [ ] - lint for a language (py or js/ts)
+- [ ] - a presentation based website to make presentations quickly.
+- [ ] - Prisoner's Dilemma Simulator
 - [x] - dark mode commits on backcode
 - [x] - maths animation (any) but have to choose a topic
 
