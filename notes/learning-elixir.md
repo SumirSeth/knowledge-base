@@ -330,3 +330,68 @@ end
 ```
 
 `Factorial.calc(5)` would return `120`.
+
+### Higher Order Functions
+
+In Elixir, functions can take functions as input and can also return output.
+
+#### `Enum.map/2` - Apply a function to each element.
+
+```bash
+iex> Enum.map([1, 2, 3, 4], fn x -> x * 2 end)
+[2, 4, 6, 8]
+```
+
+:exclamation:Shorthand Using `&`
+
+```bash
+iex> Enum.map([1, 2, 3, 4], &(&1 * 2))
+[2, 4, 6, 8]
+```
+
+#### `Enum.filter/2` - Select Elements that match a condition.
+
+```bash
+iex> Enum.filter([1, 2, 3, 4, 5], fn x -> rem(x, 2) == 0 end)
+[2, 4]
+```
+
+#### `Enum.reduce/2` - Accumulate a value from a list.
+
+```bash
+iex> Enum.reduce([1, 2, 3, 4], 0, fn x, acc -> x + acc end)
+10
+```
+
+Collapses a list into one value.
+
+#### :star: Pipelines to combine Functions
+
+Elixir has a **pipe operator (`|>`)** that allows chaining functions neatly.
+
+```bash
+iex> [1, 2, 3, 4, 5]
+...> |> Enum.filter(&(&1 > 2))  # Keep numbers > 2
+...> |> Enum.map(&(&1 * 2))     # Double each number
+...> |> Enum.reduce(&(&1 + &2)) # Sum the results
+24
+```
+
+---
+
+Where to go from here?
+
+There are a lot of other basic concepts like
+
+- `Guards` for safer pattern matching.
+- Different recursion techniques.
+- And most importantly (:exclamation:) **Concurrency** model in Elixir.
+
+Checkout the Elixir website for docs and also hop on [Elixir School](https://elixirschool.com/en/) to learn more.
+
+This was just a helping hand to quicky involve yourself into learning elixir.
+
+All the best! :heart:.
+
+---
+
