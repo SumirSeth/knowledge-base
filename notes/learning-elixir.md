@@ -169,3 +169,164 @@ end
 #### End Note:
 
 The world of functional programming is too vast and crazy, and it definitely does not end here. Explore more using languages like Elixir. At the end of the day, these are just paradigms, OOP is no better or worse then Functional. Take your call.
+
+---
+
+## More on Elixir
+
+### Variables and Pattern Matching
+
+#### Variables
+
+```bash
+iex> x = 10
+10
+iex> y = "Hello"
+"Hello"
+```
+
+Variables hold value but they do not change like in imperative languages.
+
+#### Pattern Matching
+
+```bash
+iex> {a, b} = {1, 2}
+{1, 2}
+
+iex> a
+1
+
+iex> b
+2
+```
+
+The tuple {1,2} is matched to {a,b} assigning `a = 1` and `b = 2`
+
+:x: **Invalid Match**
+
+```bash
+iex> {x, y} = {1, 2, 3}
+```
+
+#### Using `_` to ignore values while matching
+
+```bash
+iex> {x, _} = {10, 20}
+iex> x
+10
+```
+
+Here `20` is ignored.
+
+#### Matching lists
+
+```bash
+iex> [head | tail] = [1, 2, 3, 4]
+iex> head
+1
+iex> tail
+[2, 3, 4]
+```
+
+Elixir splits the first element and the rest of the list as `head` and `tail` respectively.
+
+### Functions
+
+#### Anon Functions
+
+```bash
+iex> add = fn (a, b) -> a + b end
+iex> add.(3, 5)
+8
+```
+
+Key point
+
+- Function are called using `.` so `add.(3,5)` instead of just `add(3,5)`.
+
+#### Pattern Matching in Function
+
+```bash
+iex> compare = fn
+...>   0, _ -> "First argument is zero"
+...>   _, 0 -> "Second argument is zero"
+...>   a, b -> "Neither is zero: #{a} and #{b}"
+...> end
+```
+
+`_` is used to ignore values.
+
+#### Shorthand Anon Functions
+
+```bash
+iex> square = &(&1 * &1)
+iex> square.(4)
+16
+```
+
+Key Points:
+
+- `&1`, `&2`, etc., represent arguments.
+
+- `&(&1 * &1)` is equivalent to `fn x -> x * x end`.
+
+### Named Functions
+
+In Elixir, functions inside modules are defined using `def`.
+
+#### Defining a Simple Module and Function
+
+```elixir
+defmodule Math do
+  def add(a, b) do
+    a + b
+  end
+end
+
+IO.puts(Math.add(3, 8))
+```
+
+Output would be `11`.
+
+- `defmodule` creates a module.
+- `def add(a, b)` defines a named function.
+
+#### Functions Arity
+
+Functional overloading is allowed.
+
+```elixir
+defmodule Greetings do
+  def hello(), do: "Hello, world!"
+  def hello(name), do: "Hello, #{name}!"
+end
+```
+
+For `Greetings.hello()` output would be "Hello, world!"
+
+For `Greetings.hello("Sumir")` output would be "Hello,  Sumir!"
+
+#### Pattern Matching
+
+Similar to anon functions.
+
+```elixir
+defmodule Math do
+  def multiply(_, 0), do: 0  # If second argument is 0, return 0
+  def multiply(a, b), do: a * b #If second argument is non zero, return the product.
+ 
+end
+```
+
+#### Recursion in Elixir
+
+Since Elixir avoids loop, recursion is key.
+
+```elixir
+defmodule Factorial do
+  def calc(0), do: 1
+  def calc(n), do: n * calc(n - 1)
+end
+```
+
+`Factorial.calc(5)` would return `120`.
