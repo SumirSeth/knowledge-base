@@ -15,7 +15,8 @@ tags: []
 - [ ] - explore gsap
 - [ ] - lint for a language (py or js/ts)
 - [ ] - a presentation based website to make presentations quickly.
-- [ ] - Prisoner's Dilemma Simulator
+- [ ] - Prisoner's Dilemma Simulator 
+- [ ] - Wants to build a project that converts UIs into APIs for LLMs, enabling instruction-based interactions instead of traditional UI elements. They are considering making an app or platform for this concept.
 - [x] - dark mode commits on backcode
 - [x] - maths animation (any) but have to choose a topic
 

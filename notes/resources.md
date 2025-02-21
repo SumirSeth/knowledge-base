@@ -25,6 +25,7 @@ tags: ['resources']
 - [Deep Generative Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r) - Recordings of a graduate-level course on Deep Generative Models taught at IISc, Bengaluru.
 - [Machine Learning Course in Hindi](https://www.youtube.com/playlist?list=PLlpUUtQ9RrF4o3UTYbc4cP3NCEyE5BwX5) - by Data Dissection ( Currently pursuing 🌟🌟🌟)
 - [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) - by CampusX (Currently pursuing for student project 🌟🌟🌟)
+- [ML Resources](https://ml-resources.vercel.app/)
 
 # Economics
 
