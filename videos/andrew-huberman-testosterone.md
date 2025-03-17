@@ -1,6 +1,6 @@
 ---
 title: 'The Science of How to Optimize Testosterone & Estrogen'
-description: 'Dr. Andrew Huberman's podcast episode on testosterone and estrogen optimisation.'
+description: "Dr. Andrew Huberman's podcast episode on testosterone and estrogen optimisation."
 video: 'https://www.youtube.com/watch?v=qJXKhu5UZwk'
 tags: ['Andrew Huberman', 'testosterone', 'estrogen', 'fitness', 'health', 'optimisation']
 source: 'Andrew Huberman'
