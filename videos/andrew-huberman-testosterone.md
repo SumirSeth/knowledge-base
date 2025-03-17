@@ -59,3 +59,5 @@ Smell is really important in this context and possibly even pheromones.
 Bruce effect - A pregnant animal will absorb or abort her fetus, if the dad of those animals is absent and a novel male is placed in her vicinity for 48 hours. Pheromones in the male urine are responsible for this.
 
 Vandenburg Effect - Puberty in females can be accelerated by placing a novel sexually competent male. Another one is that if you place pre-pubescent females in vicinity of mature females that have already undergone puberty fully, it will cause a delay in the onset of puberty in such females.
+
+37:50 :clock1:
