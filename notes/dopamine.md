@@ -28,6 +28,7 @@ Some lesser obvious ones:
 - Anticipation of future rewards. Ties well with the above point.
 - Gossip and drama.
 - Over validation from others.
+- Chess.
 
 Some unexpected ones:
 
@@ -47,5 +48,9 @@ For me, the problems are:
 - Music
 - YT Shorts/Reels on phone.
 - Twitter ( Deactivated as of 22/2/25 )
+- Insta ( Removed and no longer an issue )
+- Chess
 
 </personal>
+
+s

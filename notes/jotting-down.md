@@ -75,4 +75,8 @@ tags: ['personal', 'random']
   
   ---
   
+- ANYTHING YOU LOOSE BY BEING REAL WAS FAKE
+
+  ---
+  
   
