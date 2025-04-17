@@ -5,8 +5,7 @@ tags: []
 
 ---
 
-# Go - Imperative and Procedural
-
+# Go - Imperative and Procedural.
 
 
 
