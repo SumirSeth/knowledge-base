@@ -79,4 +79,6 @@ tags: ['personal', 'random']
 
   ---
   
-  
+- “Your voice is everything. If you have money… you might buy a car, watch, house. If you black, white, muslim, they all gonna see the car naturally. But if you lose it all, then all you got is your voice, that’s real money”
+
+  ---

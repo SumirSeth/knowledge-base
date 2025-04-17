@@ -31,6 +31,10 @@ tags: ['resources']
 
 - [Game Theory with Ben Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
 
+# Health
+
+- [Evidence-based Analysis on Supplements & Nutrition | Examine](https://examine.com/)
+
 # Finance
 
 - [Quantitative Finance by Yale University](https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C)
