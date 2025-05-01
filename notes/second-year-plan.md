@@ -46,3 +46,7 @@ You do **not** need to become pretentious, social, or sycophantic. You need an *
 >  Make it visible. Weaponize your discipline. Mask your disgust with tactical silence. And walk into the system like a machine.
 
 ---
+
+- Hackathons intense attempts
+
+  Check [Discover | Devfolio](https://devfolio.co/discover) daily and apply for a lot of hackthons.
