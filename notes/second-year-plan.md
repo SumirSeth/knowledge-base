@@ -1,5 +1,6 @@
 ---
 title: "2nd Year Plan moving forward."
+tags: ['personal', 'planning']
 author: "Sumir"
 ---
 
