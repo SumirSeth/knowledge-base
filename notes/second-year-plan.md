@@ -6,6 +6,12 @@ author: "Sumir"
 
 # Whiteboard for everything I am thinking in order to accelerate in the 2nd year and be able to take a drop in one year.
 
+**Focus Areas**:
+
+- [Discover | Devfolio](https://devfolio.co/discover)
+- [LangChain](https://www.langchain.com/) - Explore GenUI and think about future of UI/UX
+- Think about drop-out plan.
+
 ---
 
 link: [ChatGPT](https://chatgpt.com/share/68128f30-27a4-800f-9170-c90d934fbe8f)
