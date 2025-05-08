@@ -11,6 +11,9 @@ author: "Sumir"
 - [Discover | Devfolio](https://devfolio.co/discover)
 - [LangChain](https://www.langchain.com/) - Explore GenUI and think about future of UI/UX
 - Think about drop-out plan.
+- OSS Contribution plan
+- fix knees and start running
+- continue tracking.md
 
 ---
 
