@@ -12,8 +12,10 @@ author: "Sumir"
 - [LangChain](https://www.langchain.com/) - Explore GenUI and think about future of UI/UX
 - Think about drop-out plan.
 - OSS Contribution plan
-- fix knees and start running
+- fix knees and start running.
+- fix back, hip flexibility
 - continue tracking.md
+- protocol to manage exams, exam stress and to not fold under exam prep.
 
 ---
 
