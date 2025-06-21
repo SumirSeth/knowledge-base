@@ -28,6 +28,8 @@ tags: []
 
 - [ ] - Wants to build a project that converts UIs into APIs for LLMs, enabling instruction-based interactions instead of traditional UI elements. They are considering making an app or platform for this concept.
 
+- [ ] - ai agent to help you write better prompts for other AIs.
+
   ---
 
 - [x] - tini no bs search engine
