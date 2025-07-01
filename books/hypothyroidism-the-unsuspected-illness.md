@@ -36,6 +36,11 @@ Another source of confusion is the failure of standard thyroid function tests to
 > There is a definite range for normal basal temperature.
 > Below that range, low thyroid function is indicated.
 
+> And when patients with
+> low basal temperature have had thyroid treatment, their
+> symptoms have disappeared as their basal temperature
+> has climbed.
+
 
 
 
