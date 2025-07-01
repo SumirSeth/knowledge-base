@@ -1,5 +1,5 @@
 ---
-title: Hypothyroidism: The Unsuspected Illness
+title: Hypothyroidism - The Unsuspected Illness
 description: A book on hypothyroidism and how low thyroid function maybe affecting the body, emotions and life.
 tags: ['disorder', 'hypothyroidism', 'personal', 'medical']
 author: ['Broda O. Barnes', 'Lawrence Galton']
