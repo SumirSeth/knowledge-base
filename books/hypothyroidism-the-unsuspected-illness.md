@@ -46,6 +46,4 @@ Another source of confusion is the failure of standard thyroid function tests to
 
 
 
-
-
 ​		
