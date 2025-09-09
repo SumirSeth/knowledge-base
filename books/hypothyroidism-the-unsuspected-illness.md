@@ -23,7 +23,7 @@ The introduction to this chapter lists multiple cases where low thyroid activity
 - A man or a woman in a state of severe mental depression.
 - A middle-aged man who has managed to distinguish himself in his career by fighting all his life against his low energy reserve but now has become tired of fighting and convinced there must be some physical explanation for his problem even though none has ever been found and more than once he has been told to consult a psychiatrist and more than once has done so without benefit.
 
-An severe hypo thyroid adult may have,
+Aa severe hypo thyroid adult may have,
 
 - A "moon shaped" face.
 - Slow and thick speech.

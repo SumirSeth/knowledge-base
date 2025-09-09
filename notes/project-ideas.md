@@ -50,7 +50,7 @@ tags: []
 
 - [ ] - ***make a guide on how to accelerate FAST in life for myself.*** :star: :star: 
 - [ ] - what exactly to do when unmotivated?
-- [x] - make a video note for 30 dec. (ref: [Mistakes you will make while falling in love.](https://www.youtube.com/watch?v=BO49MyEPBKg))
+- [x] - make a video note for 30 dec.
 
 # Project 2025 ideas/documented notes ([Project 2025.](https://project2025-alpha.vercel.app/))
 
