@@ -28,4 +28,4 @@ source: 'Piyush Garg'
 
 - Numerous threads are assigned some work and these threads resolve the blocking operation.
 
-- Threads *sit* in the thread pool.
+- Threads *sit* in the thread pool
