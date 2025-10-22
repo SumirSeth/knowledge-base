@@ -8,7 +8,7 @@ director: ["Krzysztof Kieślowski"]
 
 # <u>Three Colors—White </u>: *liberty*, equality, fraternity.
 
-Kieślowski's attempt at encapsulating the colors and symbolic meaning of the French flag are far from perfect, which is not a bad thing by any means. *"White"*, the trilogy's attempt at *liberty*, does a weirdly good job at it. Notice the use of the word *weird*.
+Kieślowski's attempts at encapsulating the colors and symbolic meaning of the French flag are far from perfect, which is not a bad thing by any means. *"White"*, the trilogy's attempt at *liberty*, does a *weirdly* good job at it. Notice the use of the word *weird*.
 
 ![Three Colors: White | Julie Delpy](https://www.filmlinc.org/wp-content/uploads/2022/06/27732id_1448_250_w1600-1-1600x900-c-default.jpeg)
 
@@ -18,12 +18,13 @@ In the end, does it matter?
 
 And that's a question best answered by the viewer themselves. But the director does drop hints of key takeaways, primarily in the last couple of scenes. The heartless ex-wife realizes that she hasn't yet forgotten love, loving and being loved.
 
-Karol gets his *"revenge"* in the end, but is seen standing with tears rolling down his eyes. Does that really count as *revenge*?
+Karol gets his *"revenge"* in the end, but is seen standing with tears rolling down his face. Does that really count as *revenge*?
 
-When personal ego and pride take a step back, love shines. This is liberating, this is ***liberty***.
+When personal ego and pride take a step back, love shines through. This is liberating, this is ***liberty***.
 
-In fact, the use of the word "weird" in the starting, begins to make more and more sense as the film approaches it's beautiful ending. ***Liberty*** shows up in such subtle ways throughout the film that one might even miss it if the viewer is not willing to look at and notice the intricacies.
+In fact, the use of the word "weird" in the starting, begins to make more and more sense as the film approaches its beautiful conclusion. ***Liberty*** shows up in such subtle ways throughout the film that one might even miss it if the viewer is not willing to look at and notice the intricacies.
 
 A good watch for anyone wanting to grow out of the typical Bollywood drama fest.
 
-> Ending Note: A film that teaches you a lot without trying to teach anything..!
+> Ending Note: A film that teaches a lot without trying to teach anything..!
+
